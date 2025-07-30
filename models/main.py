@@ -1,5 +1,5 @@
 def main():
-    print("Hello from from-scratch!")
+    print("Hello from models!")
 
 
 if __name__ == "__main__":

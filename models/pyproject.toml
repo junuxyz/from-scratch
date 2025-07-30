@@ -1,7 +1,7 @@
 [project]
-name = "from-scratch"
+name = "models"
 version = "0.1.0"
-description = "Add your description here"
+description = "Virtual Envirnoment for models"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
